@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-runGenerateRandom</actionName>
+            <displayName>runGenerateRandom</displayName>
+            <goals>
+                <goal>compile</goal>
+                <goal>package</goal>
+                <goal>exec:java</goal>
+                <goal>-Dexec.mainClass="ru.myhello.itmentor.GenerateRandom"</goal>
+            </goals>
+        </action>
+    </actions>

@@ -1,0 +1,13 @@
+ru\myhello\itmentor\Person\Application.class
+ru\myhello\itmentor\Person\Exception\DublicatePerson.class
+ru\myhello\itmentor\Person\Sort\SortSelectionListPerson.class
+ru\myhello\itmentor\MyException.class
+ru\myhello\itmentor\Person\Model\Sex.class
+ru\myhello\itmentor\Person\Sort\SortBubbleListPerson.class
+ru\myhello\itmentor\Person\Sort\SortPersonListInterface.class
+ru\myhello\itmentor\GenerateRandom.class
+ru\myhello\itmentor\Trenie.class
+ru\myhello\itmentor\Person\Model\Person.class
+ru\myhello\itmentor\HelloWordItMentorLesson2.class
+ru\myhello\itmentor\Person\Exception\IllegalAge.class
+ru\myhello\itmentor\Person\PersonGenerator\PersonGenerator.class
